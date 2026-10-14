@@ -22,7 +22,7 @@ Recent projects include reorganizing the codebase around features and helping de
 
 React Native, TypeScript, JavaScript, Redux, Firebase, native integrations, mobile performance, Jest and Detox.
 
-I have a Licenciatura en Sistemas from Universidad Nacional de La Plata and a background in computer science research.
+I have a Master Degree in Computer Sciences from National University of La Plata (UNLP) and a background in computer science research.
 
 ## Contact
 
