@@ -16,7 +16,7 @@ I work on new features and maintain the application in production, collaborating
 - Investigate performance and stability issues involving rendering, memory, persistence and native integrations.
 - Develop and maintain Jest and Detox tests, and help prepare Android releases for Google Play.
 
-Recent projects include reorganizing the codebase around features and helping develop a native Android camera implementation. I use AI coding agents to support implementation and debugging, with technical review and manual testing of the results.
+Recent projects include [reorganizing the codebase around features](https://github.com/gonzaloripa/engineering-case-studies/blob/main/case-studies/feature-oriented-architecture.md) and helping develop a [native Android camera implementation](https://github.com/gonzaloripa/engineering-case-studies/blob/main/case-studies/android-native-camera.md). I use AI coding agents to support implementation and debugging, with technical review and manual testing of the results.
 
 ## Technical focus
 
